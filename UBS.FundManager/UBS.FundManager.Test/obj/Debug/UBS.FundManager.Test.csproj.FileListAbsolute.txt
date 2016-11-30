@@ -1,0 +1,8 @@
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager.Test\obj\Debug\UBS.FundManager.Test.csprojResolveAssemblyReference.cache
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager.Test\bin\Debug\UBS.FundManager.Test.dll
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager.Test\bin\Debug\UBS.FundManager.Test.pdb
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager.Test\bin\Debug\UBS.FundManager.exe
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager.Test\bin\Debug\UBS.FundManager.pdb
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager.Test\obj\Debug\UBS.FundManager.Test.dll
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager.Test\obj\Debug\UBS.FundManager.Test.pdb

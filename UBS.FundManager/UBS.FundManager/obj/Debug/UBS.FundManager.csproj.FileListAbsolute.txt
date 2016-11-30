@@ -1,0 +1,11 @@
+c:\users\vidhyaprakash\documents\visual studio 2015\Projects\UBS.FundManager\UBS.FundManager\bin\Debug\UBS.FundManager.exe.config
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager\bin\Debug\UBS.FundManager.exe
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager\bin\Debug\UBS.FundManager.pdb
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager\obj\Debug\UBS.FundManager.csprojResolveAssemblyReference.cache
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager\obj\Debug\UBS.FundManager.Properties.Resources.resources
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager\obj\Debug\UBS.FundManager.csproj.GenerateResource.Cache
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager\obj\Debug\UBS.FundManager.exe.licenses
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager\obj\Debug\UBS.FundManager.exe
+C:\Users\vidhyaprakash\Documents\Visual Studio 2015\Projects\UBS.FundManager\UBS.FundManager\obj\Debug\UBS.FundManager.pdb
+C:\Users\vidhyaprakash\documents\visual studio 2015\Projects\UBS.FundManager\UBS.FundManager\obj\Debug\UBS.FundManager.PortfolioEditor.resources
+C:\Users\vidhyaprakash\documents\visual studio 2015\Projects\UBS.FundManager\UBS.FundManager\obj\Debug\UBS.FundManager.AddFund.resources
